@@ -58,7 +58,7 @@ See [Key.enum.ts](./Key.enum.ts) for a complete list of available keys.
 In addition, to aid with readability, a number of enum values have aliases.  For example:
 
 ```JavaScript
-// this  true - these values are equal
+// this is true - these values are equal
 Key.One === Key.ExclamationMark
 ```
 
